@@ -1,4 +1,4 @@
 # <h1> Geez-numbers-hand-writing-recognition-system ,</h1> <br />
 Hand writing recognition for geez numbers, Ethiopia <br />
 the pre-trained saved model only works for the numbers from 1 to 4 only <br />
-![This is image](https://drive.google.com/open?id=1g2BUOfHz6oSTrIXz0NieXizEI_ZVQB1s)
+![This is image](https://lh3.googleusercontent.com/DENmNFcLkxuKaU7FrL-RVXd2WlKZXyIj6_PvLI5SpNuBAbg1wx_3TfEss1UonFuwtZf5ylXmV_51zdWVsTrmyyiTCvN2icrEWrFCtj-jdHRYtPAoi5AN6v2lS84Af9KTaOKI60WhkzbpQf0RgIi332fvS2ip1qcxMgCC2nHmqVXNIEfvFFqyLT7bX7g-3Kel0oSN-gmoqYAO6gVy5UySxpd6qewaT5Jpq1t0KLvbfOjeBCwaO1cTqJReJOrXeg-e2I_G4vfwE8m7jJw18NzsNQhJcs1GDiBWmsIOCuovohSDpQUZorEzEJp1ufWEVtqg6z_A6Ug6hYtKBn7M2icVehYLvW0wi0LGSZswOQCghhGMYPR5tIPFXLr9cojn0VxDS2Mumi0fg7P3TUtDTGh9P2424GICf84lvYzFSpBq5zFlQxhhdr_0Sh-1Kl_Fz3t0Llq5KDicXAwwqQh3v2mxeT1zsFuwUqbwz4esRoqYN2yPzh_3VXtvV5VpMxPnTKKjmmeNoOMMeECQf8ml4_G-Rb96xtNzpbA4JKOymAd5xT0ZEQuAqjsxvbp_6gCwdokMQ4q3lkMUuG1DIrOk-LOymXd_Cz9wySMy9E1x1au6IM5c8r5JPEGi-P3MTcea4qG12DRSP42TbPK1HAOtgUkNx-Th=w1001-h667-no)
